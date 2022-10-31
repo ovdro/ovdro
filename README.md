@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/hiresdezign)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovdro)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovdro&layout=compact)](https://github.com/ovdro/github-readme-stats)
