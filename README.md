@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 ![JAVA](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=JAVA&logoColor=27A0D9)
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=JAVA&logoColor=27A0D9)
+![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=TestRail&logoColor=27A0D9)
+![Mantis](https://img.shields.io/badge/-Mantis-090909?style=for-the-badge&logo=Mantis&logoColor=27A0D9)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=27A0D9)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=27A0D9)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=27A0D9)
+
+
 
 
 
