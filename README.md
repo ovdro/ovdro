@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Languages and Tools:
+### Languages and Tools:
+
 ![JAVA](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=JAVA&logoColor=27A0D9)
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=JAVA&logoColor=27A0D9)
 ![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=TestRail&logoColor=27A0D9)
@@ -31,7 +32,8 @@ Languages and Tools:
 
 
 
-Socials:
+### Socials:
+
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ovdro)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/hiresdezign)
 
