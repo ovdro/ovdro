@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Languages and Tools:
-![JAVA](https://img.icons8.com/ios-glyphs/30/000000/java-coffee-cup-logo.png)
+![JAVA]<img src="https://img.icons8.com/external-sbts2018-outline-sbts2018/58/000000/external-java-basic-ui-elements-2.3-sbts2018-outline-sbts2018.png"/>
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
