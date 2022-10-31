@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Languages and Tools:
-<img src="https://img.icons8.com/external-sbts2018-outline-sbts2018/58/000000/external-java-basic-ui-elements-2.3-sbts2018-outline-sbts2018.png"/>
-<img src="https://img.icons8.com/ios/50/000000/sql.png"/>
+<img src="https://img.icons8.com/external-sbts2018-outline-sbts2018/58/000000/external-java-basic-ui-elements-2.3-sbts2018-outline-sbts2018.png"/><img src="https://img.icons8.com/ios/50/000000/sql.png"/>
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ovdro)
