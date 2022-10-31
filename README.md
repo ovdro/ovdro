@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### Languages and Tools:
-[![JAVA](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)]
+![JAVA](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=JAVA&logoColor=27A0D9)
+![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=JAVA&logoColor=27A0D9)
+
 
 
 
