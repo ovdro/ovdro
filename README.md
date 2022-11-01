@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 ### Socials:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ovdro)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/hiresdezign)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/ovdro)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovdro&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
