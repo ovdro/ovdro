@@ -34,13 +34,12 @@ Here are some ideas to get you started:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ovdro)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/ovdro)
 
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ovdro&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovdro&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-</details>
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovdro&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovdro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
