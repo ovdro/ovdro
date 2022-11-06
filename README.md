@@ -29,14 +29,17 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=27A0D9)
 
 
-
-
-
-
 ### Socials:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ovdro)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/ovdro)
+
+<details>
+  <summary>:zap: Statistics:</summary>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ovdro&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats" />
+    <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
+</details>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovdro&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
