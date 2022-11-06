@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ovdro&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats" />
+   <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&langs_count=8&layout=compact" />
     <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
 </details>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovdro&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
