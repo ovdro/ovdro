@@ -2,7 +2,7 @@
  I have no experience in QA/QC in IT companies. But as a team-oriented thinking engineer, I want to start my career as a trainee engineer at QA/QC. I am a good   observer and very attentive to details. I wonder how it works.
  I believe my attention to detail will come in handy
 -->
-
+![](https://komarev.com/ghpvc/?username=ovdro)
 <!--
 **ovdro/ovdro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
