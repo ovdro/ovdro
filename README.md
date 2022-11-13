@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 [Link to my CV]()
 
 ### My certificates
--[QATestLab_EN](https://github.com/ovdro/QA-road-to/blob/main/QATestLab_ovdro_EN.pdf)
--[QATestLab_UA](https://github.com/ovdro/QA-road-to/blob/main/QATestLab_ovdro_UA.pdf)
+[QATestLab_EN](https://github.com/ovdro/QA-road-to/blob/main/QATestLab_ovdro_EN.pdf)    
+[QATestLab_UA](https://github.com/ovdro/QA-road-to/blob/main/QATestLab_ovdro_UA.pdf)    
 
 ### Languages and Tools:
 
