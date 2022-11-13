@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My CV
+[Link to my CV]()
 
 ### Languages and Tools:
 
@@ -30,7 +32,7 @@ Here are some ideas to get you started:
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/ovdro/checklist)
+- [Checklists](https://github.com/ovdro/checklists)
 - [Test-Suites and Test-Cases](https://github.com/ovdro/test-cases)
 - [Bug-Reports](https://github.com/ovdro/bug-reports)
 - [SQL Queries](https://github.com/ovdro/SQL)
