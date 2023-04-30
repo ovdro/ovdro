@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My CV
-[Link to my CV]()
+[Link to my CV](https://github.com/ovdro/QA-road-to/blob/main/CV_Oleksandr%20Drobiazko_AQA%20Junior.pdf)
 
 ### My certificates
 [QATestLab_EN](https://github.com/ovdro/QA-road-to/blob/main/QATestLab_ovdro_EN.pdf)     
