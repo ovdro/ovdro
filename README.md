@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ### My certificates
 [QATestLab_EN](https://github.com/ovdro/QA-road-to/blob/main/QATestLab_ovdro_EN.pdf)     
 [QATestLab_UA](https://github.com/ovdro/QA-road-to/blob/main/QATestLab_ovdro_UA.pdf) 
+
 [CURSOR](https://github.com/ovdro/QA-road-to/blob/main/CURSOR_ovdro_EN.pdf)
 
 ### Languages and Tools:
